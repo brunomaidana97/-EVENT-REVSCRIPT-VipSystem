@@ -1,4 +1,4 @@
-# -EVENT-REVSCRIPT-VipSystem
+# SYSTEM REVSCRIPT / VipSystem
 
 **Observações:**
 
