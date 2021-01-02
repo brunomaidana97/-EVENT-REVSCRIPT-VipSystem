@@ -34,6 +34,6 @@ if self:isVip() then
 end
 ```
 
-3. **Creditos**
+3. **Créditos**
 
 » *Créditos a Printer e Numm / Otland*
