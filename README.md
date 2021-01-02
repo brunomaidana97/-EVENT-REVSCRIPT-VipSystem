@@ -30,7 +30,7 @@
 ```
 -- Vip Exp
 if self:isVip() then
-  exp = exp * 1.2
+  exp = exp * 1.2 -- 20% 
 end
 ```
 
