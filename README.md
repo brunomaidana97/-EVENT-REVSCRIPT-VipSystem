@@ -27,7 +27,6 @@
 » *Para adicionar exp ao player que for vip abra seu player.lua que fica em data/events/scripts.*<br>
 » *Procure por function Player:onGainExperience(source, exp, rawExp) e adicione antes do return exp:*
 <br>
-<br>
 ```
 -- Vip Exp
 if self:isVip() then
