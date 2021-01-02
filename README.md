@@ -34,3 +34,7 @@ if self:isVip() then
   exp = exp * 1.2
 end
 ```
+
+3. **Creditos**
+
+» *Créditos a Printer e Numm / Otland*
